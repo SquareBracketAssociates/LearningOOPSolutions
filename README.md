@@ -1,12 +1,11 @@
-# Learning Object-Oriented Programming, Design and TDD with Pharo
+# Solution of Learning Object-Oriented Programming, Design and TDD with Pharo
 
 [![Build status][badge]][travis]
 
-This repository contains the sources of the book *Learning Object-Oriented Programming, Design and TDD with Pharo* by S. Ducasse with Damien Pollet.
-It is a follow up of *Botincs: Learning programming with Squeak*. But its contents are far more advanced and fun :).
+This repository contains the solutions of the book *Learning Object-Oriented Programming, Design and TDD with Pharo* by S. Ducasse with Damien Pollet.
 
-The book is automatically built and available at:
-[https://ci.inria.fr/pharo-contribution/view/Books/job/LearningObjectOrientedProgramming/ws/build/book.pdf][https://ci.inria.fr/pharo-contribution/view/Books/job/LearningObjectOrientedProgramming/ws/build/book.pdf].
+Check [http://SquareBracketAssociates/LearningOOPWithPharo] for the book repository or [http://books.pharo.org].
+
 
 The result from the latest successful Travis build can be found [on Bintray (PDF)](https://bintray.com/squarebracketassociates/wip/download_file?file_path=learningoop-wip.pdf).
 
