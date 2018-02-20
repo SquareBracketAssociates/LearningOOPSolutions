@@ -1,3 +1,7 @@
+This document contains the solutions of the book: ""Learning Object-Oriented Programming, Design and TDD with Pharo""
+available at *http://books.pharo.org*
+
+ 
 ${inputFile:Chapters/GettingStarted/ChallengingYourselfSolution.pillar}$
 ${inputFile:Chapters/Katas/GramKatasSolution.pillar}$ 
 ${inputFile:Chapters/Wallet/WalletSolution.pillar}$
